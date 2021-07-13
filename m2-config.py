@@ -20,7 +20,7 @@ config = Config(
             provider=SlurmProvider(
                 "htc",  # Partition / QOS
                 nodes_per_block=1,
-                max_blocks=2,
+                max_blocks=1,
                 init_blocks=1,
                 # string to prepend to #SBATCH blocks in the submit
                 # script to the scheduler eg: '#SBATCH --constraint=knl,quad,cache'
