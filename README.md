@@ -2,7 +2,7 @@
 
 ## Minimal Example
 
-1. Clone this repo to your `$HOME` directory (for PATH consistency in example)
+1. Clone this repo to your `$HOME` directory (for PATH consistency in `m2-config.py` in the example)
 2. Create and activate the Conda virtual environment
 
 ```console
